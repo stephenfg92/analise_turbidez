@@ -1,5 +1,5 @@
 # analise_turbidez
-##Análise da qualidade da água do lago Michigan utilizando Notebook Jupyter
+Análise da qualidade da água do lago Michigan utilizando Notebook Jupyter
 
 Este projeto foi desenvolvido como forma de avaliação para a disciplina de Análise de Dados ministrada pelo professor Fellipe Martins (https://github.com/fellipemartins) no curso de Internet das Coisas oferecido pela UNINOVE.
 
